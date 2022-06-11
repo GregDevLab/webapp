@@ -2,25 +2,51 @@
     "lang": "fr",
     "name": "The Web App",
     "short_name": "TWA",
-    "start_url": "pwa",
+    "start_url": "/pwa",
+    "id": "/pwa",
     "background_color": "#141716",
     "display": "standalone",
     "orientation": "portrait",
     "theme_color": "#141716",
+    "description": "TWA est un site de test pour la découvert des pwa",
     "categories": [
         "education"
     ],
     "icons": [
         {
-            "src": "images/icon-192.png",
+            "src": "images/icon-48.png",
             "type": "images/png",
-            "sizes": "192x192",
+            "sizes": "48x48",
             "purpose": "maskable"
         },
         {
-            "src": "images/icon-512.png",
+            "src": "images/icon-72.png",
             "type": "images/png",
-            "sizes": "512x512",
+            "sizes": "72x72",
+            "purpose": "maskable"
+        },
+        {
+            "src": "images/icon-96.png",
+            "type": "images/png",
+            "sizes": "96x96",
+            "purpose": "maskable"
+        },
+        {
+            "src": "images/icon-144.png",
+            "type": "images/png",
+            "sizes": "144x144",
+            "purpose": "maskable"
+        },
+        {
+            "src": "images/icon-168.png",
+            "type": "images/png",
+            "sizes": "168x168",
+            "purpose": "maskable"
+        }
+        {
+            "src": "images/icon-192.png",
+            "type": "images/png",
+            "sizes": "192x192",
             "purpose": "maskable"
         }
     ]
