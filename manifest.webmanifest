@@ -42,7 +42,7 @@
             "type": "images/png",
             "sizes": "168x168",
             "purpose": "maskable"
-        }
+        },
         {
             "src": "images/icon-192.png",
             "type": "images/png",
