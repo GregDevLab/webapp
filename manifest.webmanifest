@@ -1,0 +1,27 @@
+{
+    "lang": "fr",
+    "name": "The Web App",
+    "short_name": "TWA",
+    "start_url": "pwa",
+    "background_color": "#141716",
+    "display": "standalone",
+    "orientation": "portrait",
+    "theme_color": "#141716",
+    "categories": [
+        "education"
+    ],
+    "icons": [
+        {
+            "src": "images/icon-192.png",
+            "type": "images/png",
+            "sizes": "192x192",
+            "purpose": "maskable"
+        },
+        {
+            "src": "images/icon-512.png",
+            "type": "images/png",
+            "sizes": "512x512",
+            "purpose": "maskable"
+        }
+    ]
+}
