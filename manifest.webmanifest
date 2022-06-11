@@ -1,8 +1,8 @@
 {
+    "start_url": "/pwa",
     "lang": "fr",
     "name": "The Web App",
     "short_name": "TWA",
-    "start_url": "/pwa",
     "id": "/pwa",
     "background_color": "#141716",
     "display": "standalone",
@@ -48,6 +48,12 @@
             "type": "images/png",
             "sizes": "192x192",
             "purpose": "maskable"
+        },
+        {
+            "src": "images/icon-512.png",
+            "type": "images/png",
+            "sizes": "192x192",
+            "purpose": "any"
         }
     ]
 }
